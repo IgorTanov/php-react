@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.header-button{
+    border:solid blue 1px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 5px 5px 5px 5px;
+    padding: 2px 2px 2px 2px;
+        
+}
+.header-button:hover{
+    background-color: rgb(26, 212, 240);
+}
+.header-authorization-pannel{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+}

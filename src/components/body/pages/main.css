@@ -1,0 +1,11 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.main-game-div{
+    border:solid rgb(71, 28, 201) 1px;
+    width: 200px;
+    height: 300px;
+}
